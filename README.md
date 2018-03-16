@@ -16,4 +16,5 @@ The model has an error rate for 13% on the validation dataset.
 
 ## References:
 Word Embeddings Technique for Categorial Variables: https://arxiv.org/pdf/1508.00021v2.pdf
+
 Data Source: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#88c2d085-3aba-eeef-3fb9-d7299912ad37
